@@ -25,7 +25,7 @@ The objective of this project is to develop a Node.js API capable of handling us
    - The Node.js API is set up in a cluster with two replica sets to provide redundancy and handle increased load. This setup enhances the reliability and scalability of the API.
 
 6. **Resilience and Error Handling:**
-   - The API is designed to handle various failure scenarios and edge cases. It ensures robust performance even in the face of unexpected issues.
+   - The API is designed to handle various failure scenarios and edge cases. It ensures robust performance even in the face of unexpected issues
 
 ### Additional Considerations
 
